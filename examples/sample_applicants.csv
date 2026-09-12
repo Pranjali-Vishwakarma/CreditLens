@@ -1,0 +1,6 @@
+name,checking_account_status,duration_months,credit_amount,savings_account,employment_since,installment_rate_pct,residence_since,property,age,existing_credits_count,job,num_dependents,credit_history,purpose,personal_status_sex,other_debtors,other_installment_plans,housing,telephone,foreign_worker
+applicant_1,A13,18,3200,A63,A75,2,3,A121,42,1,A173,1,A32,A43,A93,A101,A143,A152,A192,A201
+applicant_2,A11,48,9500,A61,A71,4,1,A124,23,3,A172,2,A33,A40,A93,A101,A141,A151,A191,A201
+applicant_3,A12,30,5500,A62,A73,3,2,A123,35,2,A173,1,A32,A42,A92,A101,A143,A152,A191,A201
+applicant_4,A14,12,1800,A64,A74,1,4,A122,55,1,A174,1,A34,A49,A93,A101,A143,A153,A192,A201
+applicant_5,A12,36,7200,A61,A72,3,2,A124,28,2,A172,1,A30,A46,A93,A103,A142,A151,A191,A202

@@ -1,0 +1,10 @@
+xgboost
+shap
+fairlearn
+pandas
+numpy
+scikit-learn
+streamlit
+pytest
+matplotlib
+joblib
