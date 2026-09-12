@@ -6,7 +6,16 @@ Given a loan applicant's financial and personal attributes, CreditLens scores cr
 
 ---
 
-## Setup
+## 🚀 Live Demo
+
+No setup required — try the app directly in your browser:
+
+**[https://credit-lens-ai.streamlit.app/](https://credit-lens-ai.streamlit.app/)**
+
+> Note: Streamlit Community Cloud apps sleep after a period of inactivity.
+> If the link shows a "waking up" screen, wait ~30 seconds and it will load normally.
+
+## Local Setup
 
 ```bash
 git clone <repo-url>
